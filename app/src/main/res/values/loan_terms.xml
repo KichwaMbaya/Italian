@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="la">Contanti Veloci può concedere un prestito istantaneo per aiutare chiunque negli Stati Uniti abbia bisogno di denaro per far crescere le proprie attività, fare acquisti o finanziare qualsiasi altra emergenza.</string>
+    <string name="lb">1.Prodotto:</string>
+    <string name="lc">• Importo del prestito: €10 – €2500</string>
+    <string name="ld">• Durata del prestito: 90 giorni - 365 giorni</string>
+    <string name="le">Limite massimo del prestito: € 2500</string>
+    <string name="lf">Basso interesse (TAEG massimo): 12% annuo</string>
+    <string name="lg">Ad esempio: per prestiti di € 200 con una durata di 90 giorni, le commissioni addebitate sono le seguenti:</string>
+    <string name="lh">Tasso di interesse mensile: 12% / 12 = 1,00%</string>
+    <string name="li">Interesse mensile: €200 * 1,00% = €2</string>
+    <string name="lj">Pagamento mensile totale ： € 200 / 3 + € 2 = € 68,67</string>
+    <string name="lk">La fattura di rimborso totale, comprensiva di principio e interessi, sarà:</string>
+    <string name="ll">€200 + €200* 1,00%*3 = €206</string>
+    <string name="lm">1. Perché prendere in prestito da Contanti Veloci?</string>
+    <string name="ln">• Nessun rapporto di credito richiesto</string>
+    <string name="lo">• Processo senza carta e digitale sul tuo telefonino</string>
+    <string name="lp">• Nessun requisito collaterale</string>
+    <string name="lq">• Ottenere l\'accesso 7/24 al prestito sempre e ovunque</string>
+    <string name="lr">• Effettuiamo versamenti direttamente sul tuo conto bancario entro 30 minuti dall\'approvazione</string>
+    <string name="ls">• Disponibile in tutta Italia.</string>
+    <string name="lt">• Con l\'aumentare del punteggio di credito, il limite del prestito aumenta gradualmente</string>
+    <string name="lu">• Varietà di convenienti metodi di rimborso</string>
+    <string name="lv">• È possibile richiedere l\'estensione del prestito se non si dispone di denaro sufficiente per rimborsare</string>
+    <string name="lw">2.Chi può richiedere il prestito</string>
+    <string name="lx">• Residente in Italia</string>
+    <string name="lz">• 18-60 anni</string>
+    <string name="ma">• Ha una fonte di reddito.</string>
+    <string name="mb">3. Come rimborsare il prestito?</string>
+    <string name="mc">Puoi rimborsarci tramite il nostro conto bancario n. che ti verrà fornito una volta preso in prestito il prestito.</string>
+    <string name="md">• Inserisci l\'importo che desideri pagare</string>
+    <string name="me">• Un buon rimborso aumenterà il tuo punteggio di credito</string>
+    <string name="mf">4. Sicurezza</string>
+    <string name="mg">I tuoi dati sono al sicuro con noi. Viene trasferito a noi tramite una connessione HTTPS sicura e non lo condividiamo con nessuno senza il tuo consenso, ad eccezione dei finanziatori. Tutte le transazioni sono protette tramite una crittografia SSL a 128 bit.</string>
+    <string name="mh">5.CONTATTACI</string>
+    <string name="mi">In caso di domande, puoi inviarci un\'e-mail all\'indirizzo vclxservices@yahoo.com</string>
+
+
+</resources>
